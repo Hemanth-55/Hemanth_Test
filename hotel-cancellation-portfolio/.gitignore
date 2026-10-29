@@ -1,0 +1,17 @@
+# Competition data, row-level predictions, credentials and generated private outputs
+/data/*
+!/data/README.md
+/private/
+*.csv
+!reports/*.csv
+*.npy
+*.pkl
+*.joblib
+.env
+.env.*
+*credential*
+*kaggle.json
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+!docs/submission_log.csv

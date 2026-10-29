@@ -1,0 +1,6 @@
+experiment,fold,auc,seconds,settings,reason,warnings
+11_winner_grouped_diagnostic,1,0.9427101824966092,5.232864694,"{""engineered"": true, ""kind"": ""hgb"", ""max_leaf_nodes"": 31}",Sensitivity check only: exact predictor profiles cannot cross train/validation.,
+11_winner_grouped_diagnostic,2,0.9413891138790115,11.400054998999963,"{""engineered"": true, ""kind"": ""hgb"", ""max_leaf_nodes"": 31}",Sensitivity check only: exact predictor profiles cannot cross train/validation.,
+11_winner_grouped_diagnostic,3,0.9437312654148309,4.846212606999984,"{""engineered"": true, ""kind"": ""hgb"", ""max_leaf_nodes"": 31}",Sensitivity check only: exact predictor profiles cannot cross train/validation.,
+11_winner_grouped_diagnostic,4,0.941355486354716,7.806953827999905,"{""engineered"": true, ""kind"": ""hgb"", ""max_leaf_nodes"": 31}",Sensitivity check only: exact predictor profiles cannot cross train/validation.,
+11_winner_grouped_diagnostic,5,0.9388934420334974,5.443926122999983,"{""engineered"": true, ""kind"": ""hgb"", ""max_leaf_nodes"": 31}",Sensitivity check only: exact predictor profiles cannot cross train/validation.,

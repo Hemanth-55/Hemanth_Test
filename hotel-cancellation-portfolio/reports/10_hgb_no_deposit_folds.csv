@@ -1,0 +1,6 @@
+experiment,fold,auc,seconds,settings,reason,warnings
+10_hgb_no_deposit,1,0.9417279276000563,3.890408056999945,"{""drop_deposit"": true, ""engineered"": true, ""kind"": ""hgb""}",Deposit ablation: check reliance on unusual deposit cancellation association.,
+10_hgb_no_deposit,2,0.9447737342172344,4.229350942999986,"{""drop_deposit"": true, ""engineered"": true, ""kind"": ""hgb""}",Deposit ablation: check reliance on unusual deposit cancellation association.,
+10_hgb_no_deposit,3,0.9433347489601344,4.385841131999996,"{""drop_deposit"": true, ""engineered"": true, ""kind"": ""hgb""}",Deposit ablation: check reliance on unusual deposit cancellation association.,
+10_hgb_no_deposit,4,0.944618631027714,3.88708067999994,"{""drop_deposit"": true, ""engineered"": true, ""kind"": ""hgb""}",Deposit ablation: check reliance on unusual deposit cancellation association.,
+10_hgb_no_deposit,5,0.9426001083411861,4.592073160999917,"{""drop_deposit"": true, ""engineered"": true, ""kind"": ""hgb""}",Deposit ablation: check reliance on unusual deposit cancellation association.,

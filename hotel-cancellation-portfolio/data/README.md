@@ -1,0 +1,1 @@
+Place your own competition train.csv and test.csv here. Add sample_submission.csv when available. These files are deliberately excluded from Git. Use only competition-provided data. Do not download public versions of the hotel dataset to recover hidden labels.

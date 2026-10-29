@@ -1,0 +1,6 @@
+experiment,fold,auc,seconds,settings,reason,warnings
+03_lr_features,1,0.9080491024937132,2.2228792930000054,"{""engineered"": true, ""kind"": ""lr""}","Test total nights, guests, has children and weekend share.",
+03_lr_features,2,0.9100724993069199,2.1633936769999877,"{""engineered"": true, ""kind"": ""lr""}","Test total nights, guests, has children and weekend share.",
+03_lr_features,3,0.9073979560829103,2.239121663999981,"{""engineered"": true, ""kind"": ""lr""}","Test total nights, guests, has children and weekend share.",
+03_lr_features,4,0.9093493860192837,1.9956922430000077,"{""engineered"": true, ""kind"": ""lr""}","Test total nights, guests, has children and weekend share.",
+03_lr_features,5,0.9049626746946366,2.0191054919999942,"{""engineered"": true, ""kind"": ""lr""}","Test total nights, guests, has children and weekend share.",

@@ -1,0 +1,6 @@
+experiment,fold,auc,seconds,settings,reason,warnings
+01_provisional_lr_numeric_ids,1,0.8893686771806968,1.6184410249999814,"{""categorical_ids"": false, ""kind"": ""lr""}",Provisional baseline only; official starter is missing. Numeric IDs test reference.,
+01_provisional_lr_numeric_ids,2,0.8921937651154686,1.4194059210000205,"{""categorical_ids"": false, ""kind"": ""lr""}",Provisional baseline only; official starter is missing. Numeric IDs test reference.,
+01_provisional_lr_numeric_ids,3,0.8895392806970628,1.4960463980000043,"{""categorical_ids"": false, ""kind"": ""lr""}",Provisional baseline only; official starter is missing. Numeric IDs test reference.,
+01_provisional_lr_numeric_ids,4,0.8919968524538467,1.6344530670000097,"{""categorical_ids"": false, ""kind"": ""lr""}",Provisional baseline only; official starter is missing. Numeric IDs test reference.,
+01_provisional_lr_numeric_ids,5,0.8870627558131465,1.530236389999999,"{""categorical_ids"": false, ""kind"": ""lr""}",Provisional baseline only; official starter is missing. Numeric IDs test reference.,

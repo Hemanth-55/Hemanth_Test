@@ -1,0 +1,6 @@
+experiment,fold,auc,seconds,settings,reason,warnings
+05_rf_leaf5,1,0.9429658392557556,49.010854636000005,"{""engineered"": true, ""kind"": ""rf""}",Nonlinear tree reference; 160 trees and leaf size 5 control cost/overfit.,
+05_rf_leaf5,2,0.945150001804832,40.049590929000004,"{""engineered"": true, ""kind"": ""rf""}",Nonlinear tree reference; 160 trees and leaf size 5 control cost/overfit.,
+05_rf_leaf5,3,0.9447357115004147,50.732594207999966,"{""engineered"": true, ""kind"": ""rf""}",Nonlinear tree reference; 160 trees and leaf size 5 control cost/overfit.,
+05_rf_leaf5,4,0.9452247826341829,57.20319720200001,"{""engineered"": true, ""kind"": ""rf""}",Nonlinear tree reference; 160 trees and leaf size 5 control cost/overfit.,
+05_rf_leaf5,5,0.9426822982594387,53.59730714199998,"{""engineered"": true, ""kind"": ""rf""}",Nonlinear tree reference; 160 trees and leaf size 5 control cost/overfit.,
