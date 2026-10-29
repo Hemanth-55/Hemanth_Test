@@ -1,0 +1,6 @@
+experiment,fold,auc,seconds,settings,reason,warnings
+07_hgb_leaf31,1,0.9474856863922758,3.968631507999987,"{""engineered"": true, ""kind"": ""hgb"", ""max_leaf_nodes"": 31}",Small capacity search: 15 versus 31 leaves.,
+07_hgb_leaf31,2,0.9510667202222963,4.70937385000002,"{""engineered"": true, ""kind"": ""hgb"", ""max_leaf_nodes"": 31}",Small capacity search: 15 versus 31 leaves.,
+07_hgb_leaf31,3,0.9493722499331475,5.136441846999958,"{""engineered"": true, ""kind"": ""hgb"", ""max_leaf_nodes"": 31}",Small capacity search: 15 versus 31 leaves.,
+07_hgb_leaf31,4,0.9496355008749092,4.794702414999961,"{""engineered"": true, ""kind"": ""hgb"", ""max_leaf_nodes"": 31}",Small capacity search: 15 versus 31 leaves.,
+07_hgb_leaf31,5,0.9486047077531732,9.272418620000053,"{""engineered"": true, ""kind"": ""hgb"", ""max_leaf_nodes"": 31}",Small capacity search: 15 versus 31 leaves.,

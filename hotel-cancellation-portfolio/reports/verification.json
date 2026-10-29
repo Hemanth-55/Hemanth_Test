@@ -1,0 +1,16 @@
+{
+  "script_exit_code": 0,
+  "main_cv_completed_folds": 50,
+  "grouped_diagnostic_completed_folds": 5,
+  "recorded_model_warnings": 0,
+  "notebook_top_to_bottom_local_execution": "passed",
+  "notebook_completed_code_cells": 12,
+  "notebook_rerun_auc_exact_match": true,
+  "notebook_rerun_submission_byte_identical": true,
+  "hosted_google_colab_execution": "not performed",
+  "memo_pdf_pages": 1,
+  "sample_submission_verification": "blocked: file not supplied",
+  "official_starter_reproduction": "blocked: notebook not supplied",
+  "source_sha256": "303d2e9ae02c51df74fc4ef9f7a82fd19fbc5fb0cf07be20342cfff17eb3d849",
+  "submission_sha256": "3c7524abe8dfcf61029791ddad2110ff5e24ba4a5d42187f437fef44e05b2f37"
+}

@@ -1,0 +1,6 @@
+experiment,fold,auc,seconds,settings,reason,warnings
+04_lr_features_C01,1,0.9073235148237216,1.4076690670000005,"{""C"": 0.1, ""engineered"": true, ""kind"": ""lr""}",Small regularization search: C 1 versus 0.1.,
+04_lr_features_C01,2,0.9096763570802581,1.544273445000016,"{""C"": 0.1, ""engineered"": true, ""kind"": ""lr""}",Small regularization search: C 1 versus 0.1.,
+04_lr_features_C01,3,0.9064610702015838,1.5057346560000155,"{""C"": 0.1, ""engineered"": true, ""kind"": ""lr""}",Small regularization search: C 1 versus 0.1.,
+04_lr_features_C01,4,0.9085016840068795,1.5245091419999994,"{""C"": 0.1, ""engineered"": true, ""kind"": ""lr""}",Small regularization search: C 1 versus 0.1.,
+04_lr_features_C01,5,0.9037341315090573,1.5670973290000063,"{""C"": 0.1, ""engineered"": true, ""kind"": ""lr""}",Small regularization search: C 1 versus 0.1.,

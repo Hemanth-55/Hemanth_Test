@@ -1,0 +1,6 @@
+experiment,fold,auc,seconds,settings,reason,warnings
+06_hgb_leaf15,1,0.9433591760725236,7.805211070000041,"{""engineered"": true, ""kind"": ""hgb""}",Boosted trees with native categorical preprocessing; modest 15 leaves.,
+06_hgb_leaf15,2,0.9467018274354614,9.819814409999992,"{""engineered"": true, ""kind"": ""hgb""}",Boosted trees with native categorical preprocessing; modest 15 leaves.,
+06_hgb_leaf15,3,0.9454867273016583,3.722766553999975,"{""engineered"": true, ""kind"": ""hgb""}",Boosted trees with native categorical preprocessing; modest 15 leaves.,
+06_hgb_leaf15,4,0.9457823447950956,3.632513588999984,"{""engineered"": true, ""kind"": ""hgb""}",Boosted trees with native categorical preprocessing; modest 15 leaves.,
+06_hgb_leaf15,5,0.9442221024707584,4.326713813000026,"{""engineered"": true, ""kind"": ""hgb""}",Boosted trees with native categorical preprocessing; modest 15 leaves.,

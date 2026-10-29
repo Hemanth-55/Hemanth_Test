@@ -1,0 +1,6 @@
+experiment,fold,auc,seconds,settings,reason,warnings
+09_hgb_no_country,1,0.9045217104118906,3.379027277999967,"{""drop_country"": true, ""engineered"": true, ""kind"": ""hgb""}","Country ablation: measure predictive association, not causation.",
+09_hgb_no_country,2,0.9097790145788688,3.2791738189999933,"{""drop_country"": true, ""engineered"": true, ""kind"": ""hgb""}","Country ablation: measure predictive association, not causation.",
+09_hgb_no_country,3,0.9072318378641986,3.4339721099998997,"{""drop_country"": true, ""engineered"": true, ""kind"": ""hgb""}","Country ablation: measure predictive association, not causation.",
+09_hgb_no_country,4,0.9103269617637519,3.5030344980000336,"{""drop_country"": true, ""engineered"": true, ""kind"": ""hgb""}","Country ablation: measure predictive association, not causation.",
+09_hgb_no_country,5,0.9079688732220397,3.488649828000007,"{""drop_country"": true, ""engineered"": true, ""kind"": ""hgb""}","Country ablation: measure predictive association, not causation.",

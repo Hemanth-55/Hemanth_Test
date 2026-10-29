@@ -1,0 +1,6 @@
+experiment,fold,auc,seconds,settings,reason,warnings
+02_lr_categorical_ids,1,0.9074263633266642,1.865662317000016,"{""kind"": ""lr""}",Change agent/company to categories; group rare levels using training fold only.,
+02_lr_categorical_ids,2,0.9093440285595648,1.8988352990000124,"{""kind"": ""lr""}",Change agent/company to categories; group rare levels using training fold only.,
+02_lr_categorical_ids,3,0.9066507003485167,1.7990764449999972,"{""kind"": ""lr""}",Change agent/company to categories; group rare levels using training fold only.,
+02_lr_categorical_ids,4,0.9088548957369964,1.7840445459999899,"{""kind"": ""lr""}",Change agent/company to categories; group rare levels using training fold only.,
+02_lr_categorical_ids,5,0.9047373872858789,1.9723346940000113,"{""kind"": ""lr""}",Change agent/company to categories; group rare levels using training fold only.,

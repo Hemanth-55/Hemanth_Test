@@ -1,0 +1,22 @@
+{
+  "selected_model": "07_hgb_leaf31",
+  "settings": {
+    "kind": "hgb",
+    "engineered": true,
+    "max_leaf_nodes": 31
+  },
+  "local_mean_auc": 0.9492329730351605,
+  "local_std_auc": 0.0013220990261103593,
+  "pooled_oof_auc": 0.9492085296683165,
+  "brier_score": 0.08716955688990977,
+  "grouped_diagnostic_mean_auc": 0.9416158980357329,
+  "public_kaggle_auc": null,
+  "private_kaggle_auc": null,
+  "official_baseline_reproduced": false,
+  "course_method_compliance_verified": false,
+  "memo_rubric_verified": false,
+  "python_version": "3.12.14",
+  "sklearn_version": "1.8.0",
+  "train_sha256": "10263e4883c4b82ee89819b483f97e628bdfec4f04368f6d8b2b02649c9cd2a5",
+  "test_sha256": "2384cd58a466c366d91d91c1382414649c818db89312269a428066a5b4c3bf1e"
+}

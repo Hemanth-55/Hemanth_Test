@@ -1,0 +1,22 @@
+{
+  "train_shape": [
+    83573,
+    30
+  ],
+  "test_shape": [
+    35817,
+    29
+  ],
+  "target_counts": {
+    "0": 52616,
+    "1": 30957
+  },
+  "cancellation_rate": 0.3704186758881457,
+  "train_duplicate_full_rows": 0,
+  "train_duplicate_predictors_excluding_id": 21391,
+  "test_duplicate_predictors_excluding_id": 7423,
+  "test_rows_matching_a_train_predictor_profile": 11593,
+  "id_unique_train": true,
+  "id_unique_test": true,
+  "id_overlap": 0
+}

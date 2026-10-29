@@ -1,0 +1,6 @@
+experiment,fold,auc,seconds,settings,reason,warnings
+08_hgb_conservative,1,0.9214049191452066,3.620954710000092,"{""conservative"": true, ""engineered"": true, ""kind"": ""hgb""}",Sensitivity: remove four features with uncertain booking-time availability.,
+08_hgb_conservative,2,0.9247838375935966,3.422191372000043,"{""conservative"": true, ""engineered"": true, ""kind"": ""hgb""}",Sensitivity: remove four features with uncertain booking-time availability.,
+08_hgb_conservative,3,0.9218359988984386,3.636267592999957,"{""conservative"": true, ""engineered"": true, ""kind"": ""hgb""}",Sensitivity: remove four features with uncertain booking-time availability.,
+08_hgb_conservative,4,0.9221419102533369,3.8763246459999436,"{""conservative"": true, ""engineered"": true, ""kind"": ""hgb""}",Sensitivity: remove four features with uncertain booking-time availability.,
+08_hgb_conservative,5,0.919767251720635,3.411100278000049,"{""conservative"": true, ""engineered"": true, ""kind"": ""hgb""}",Sensitivity: remove four features with uncertain booking-time availability.,
